@@ -1,0 +1,12 @@
+#treinando as operaçoes
+n1 = int(input('Por favor,digite um número'))
+n2 = int(input('Mais um número'))
+s1 = n1 + n2
+s2 = n1 - n2
+s3 = n1 / n2
+s4 = n1 ** n2
+s5 = n1 // n2
+s6 = n1 % n2
+print('calculando...ok')
+print('Este sao os possiveis resultados para', n1 ,'e', n2)
+print(s1, s2, s3, s4, s5, s6)
